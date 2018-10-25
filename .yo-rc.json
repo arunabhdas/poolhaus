@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.poolhaus.poolhaus",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.5.0",
+    "applicationType": "monolith",
+    "baseName": "poolhaus",
+    "packageName": "com.poolhaus.poolhaus",
+    "packageFolder": "com/poolhaus/poolhaus",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "MTJlOGUzZGMxNmU2ZjQwM2RjMjE0OTM4ZDEwMTM0ZGE2ZTFjOTJkNTI2ODkyMTE5Yjk3ZWFiZTI0NGU1YmE3NzNmOTgwNWQzYTkxMzYwOWJjNWM1MWI3MzgzOGZiMjZmOWZiODAwY2FmYTgyZDE3NTNkNmU5NWEwMjA3OTA0M2U=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "protractor"
+    ],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ]
+  }
+}
