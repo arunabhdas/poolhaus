@@ -10,7 +10,6 @@
 v11.0.0
 
 
-
 ==> jhipster
 Using JHipster version installed globally
 Running default command
@@ -28,7 +27,7 @@ Options: from-cli: true
                             https://www.jhipster.tech
 
 Welcome to JHipster v5.5.0
-Application files will be generated in folder: /Users/coder/repos/ad/githubrepos/poolhaus
+Application files will be generated in folder: /Users/das/repos/ad/githubrepos/poolhaus/poolhaus
  _______________________________________________________________________________________________________________
 
   Documentation for creating an application is at https://www.jhipster.tech/creating-an-app/
@@ -44,7 +43,7 @@ WARNING! Your Node version is not LTS (Long Term Support), use it at your own ri
 ? Which *type* of authentication would you like to use? JWT authentication (stateless, with a token)
 ? Which *type* of database would you like to use? SQL (H2, MySQL, MariaDB, PostgreSQL, Oracle, MSSQL)
 ? Which *production* database would you like to use? MySQL
-? Which *development* database would you like to use? MySQL
+? Which *development* database would you like to use? H2 with disk-based persistence
 ? Do you want to use the Spring cache abstraction? Yes, with the Ehcache implementation (local cache, for a single node)
 ? Do you want to use Hibernate 2nd level cache? Yes
 ? Would you like to use Maven or Gradle for building the backend? Maven
@@ -54,5 +53,10 @@ WARNING! Your Node version is not LTS (Long Term Support), use it at your own ri
 ? Would you like to enable internationalization support? Yes
 ? Please choose the native language of the application English
 ? Please choose additional languages to install 
-? Besides JUnit and Jest, which testing frameworks would you like to use? Protractor
+? Besides JUnit and Jest, which testing frameworks would you like to use? 
 ? Would you like to install other generators from the JHipster Marketplace? No
+
+Installing languages: en
+
+KeyStore 'src/main/resources/config/tls/keystore.p12' generated successfully.
+
