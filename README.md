@@ -4,6 +4,7 @@
 ## Build and Deploy (Dev environment)
 
 
+./mvnw 
 
 
 
