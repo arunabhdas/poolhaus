@@ -1,5 +1,12 @@
 # poolhaus
 
+
+## Build and Deploy (Dev environment)
+
+
+
+
+
 ## Steps
 
 ==> yarn global add generator-jhipster
